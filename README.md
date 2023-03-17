@@ -38,6 +38,8 @@ localhost: 3000
 
 ## Creado con:
 
-[React] (https://es.reactjs.org/) - Frontend Framework
+[React] (https://es.reactjs.org/) - Frontend Framework 
+
 [Firebase] (https://firebase.google.com/) - Base de Datos
+
 [Toastify] (https://www.npmjs.com/package/react-toastify) - Notificaciones
