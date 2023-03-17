@@ -31,8 +31,7 @@ localhost: 3000
 # Captura de ejecución
 
 [![Alt text](https://img.youtube.com/vi/SJ--FnqiuGc/0.jpg)](https://www.youtube.com/watch?v=SJ--FnqiuGc)
-Enlace:
-https://youtu.be/SJ--FnqiuGc
+
 
 
 
